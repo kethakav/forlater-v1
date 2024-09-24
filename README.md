@@ -13,7 +13,7 @@ Since this extension can’t be uploaded to the Chrome Web Store due to region r
 
 1. Download the extension code by cloning the repository or downloading it as a zip:
    ```bash
-   git clone [repo-url]
+   git clone https://github.com/kethakav/forlater-v1.git
    ```
 Or download the zip from GitHub Repo.
 
@@ -34,6 +34,3 @@ If you’d like to contribute or report an issue, feel free to open a pull reque
 
 ## Join the Conversation
 If you have questions, feedback, or suggestions, you can join the discussion on Discord: Discord Invite Link
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
