@@ -34,4 +34,4 @@ Or download the zip from GitHub Repo.
 If you’d like to contribute or report an issue, feel free to open a pull request or issue on GitHub.
 
 ## Join the Conversation
-If you have questions, feedback, or suggestions, you can join the discussion on Discord: Discord Invite Link
+If you have questions, feedback, or suggestions, you can join the discussion on Discord: [Discord Invite Link](https://discord.gg/VvGS8Em84R)
