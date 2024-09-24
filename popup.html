@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Saved Highlights</title>
+  <style>
+    body { width: 300px; font-family: Arial, sans-serif; }
+    .highlight { margin-bottom: 10px; border-bottom: 1px solid #ccc; padding-bottom: 5px; }
+    .date { font-size: 0.8em; color: #666; }
+    .url { font-size: 0.8em; color: #0066cc; }
+    #clear-button { 
+      background-color: red; 
+      color: white; 
+      padding: 5px; 
+      cursor: pointer; 
+      border: none; 
+      width: 100%; 
+      margin-bottom: 10px;
+    }
+    h2 { margin-bottom: 5px; }
+  </style>
+</head>
+<body>
+  <h2>Saved Highlights</h2>
+  <button id="clear-button">Clear All</button>
+  <div id="highlights"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
