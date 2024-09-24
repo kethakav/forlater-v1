@@ -1,6 +1,7 @@
-# Chrome Extension: Save Highlighted Text
+# forLater – Chrome Extension
 
-This is a simple Chrome extension that lets you save highlighted text from any webpage, along with the URL and date. It’s useful for keeping track of important information you come across while browsing.
+**forLater** is a simple Chrome extension that lets you save highlighted text from any webpage, along with the URL and the date. It’s perfect for anyone who finds useful information online but forgets to save it for later use.
+
 
 ## Features
 - Save highlighted text with one click
